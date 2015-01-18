@@ -1,5 +1,10 @@
 package kata4;
 
+/**
+ *
+ * @author Krystian Kurzawa
+ */
+
 import java.util.HashMap;
 
 public class Histogram<T> extends HashMap<T, Integer>{

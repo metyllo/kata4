@@ -1,5 +1,10 @@
 package kata4;
 
+/**
+ *
+ * @author Krystian Kurzawa
+ */
+
 class Mail {
 
     private String address;

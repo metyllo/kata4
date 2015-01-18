@@ -5,6 +5,11 @@
  */
 package kata4;
 
+/**
+ *
+ * @author Krystian Kurzawa
+ */
+
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;

@@ -1,5 +1,10 @@
 package kata4;
 
+/**
+ *
+ * @author Krystian Kurzawa
+ */
+
 public class Person {
     
     private final String firstName;

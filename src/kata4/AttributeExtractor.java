@@ -5,6 +5,11 @@
  */
 package kata4;
 
+/**
+ *
+ * @author Krystian Kurzawa
+ */
+
 public interface AttributeExtractor<Entity,Attribute> {
     
     public Attribute extract(Entity entity);

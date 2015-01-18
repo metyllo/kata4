@@ -2,6 +2,10 @@ package kata4;
 
 public class ConsoleHistogramViewer<T> implements HistogramViewer<T> {
        
+/**
+ *
+ * @author Krystian Kurzawa
+ */
     @Override
     public void show(Histogram<T> histogram){
         for (T item : histogram.keySet()) {

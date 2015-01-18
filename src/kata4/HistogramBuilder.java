@@ -1,5 +1,9 @@
 package kata4;
 
+/**
+ *
+ * @author Krystian Kurzawa
+ */
 public class HistogramBuilder<E> {
     
     private E[] items;
